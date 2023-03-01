@@ -1,0 +1,310 @@
+
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.4 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.4 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ HS-grad} -> { Male} (conf: 0.677, supp: 0.218, lift: 1.012, conv: 1.025)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.4
+{ Husband} -> { <=50K
+} (conf: 0.551, supp: 0.223, lift: 0.726, conv: 0.537)
+Rule: for min support = 0.2 / min confidence = 0.4
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.4 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.4 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ HS-grad} -> { Male} (conf: 0.677, supp: 0.218, lift: 1.012, conv: 1.025)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.4
+{ Husband} -> { <=50K
+} (conf: 0.551, supp: 0.223, lift: 0.726, conv: 0.537)
+Rule: for min support = 0.2 / min confidence = 0.4
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.4 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.4 / min confidence = 0.8
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Female} -> { <=50K
+} (conf: 0.891, supp: 0.295, lift: 1.173, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ HS-grad} -> { <=50K
+} (conf: 0.840, supp: 0.271, lift: 1.107, conv: 1.510)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ >50K
+} -> { Male} (conf: 0.850, supp: 0.205, lift: 1.270, conv: 2.200)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ HS-grad} -> { Male} (conf: 0.677, supp: 0.218, lift: 1.012, conv: 1.025)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.6
+{ <=50K
+,  Husband} -> { Male} (conf: 1.000, supp: 0.223, lift: 1.494, conv: 2406.662)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.3 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Male} -> { <=50K
+} (conf: 0.694, supp: 0.465, lift: 0.915, conv: 0.788)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ <=50K
+} -> { Male} (conf: 0.612, supp: 0.465, lift: 0.915, conv: 0.853)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Male} -> { Husband} (conf: 0.605, supp: 0.405, lift: 1.494, conv: 1.507)
+Rule: for min support = 0.4 / min confidence = 0.6
+{ Husband} -> { Male} (conf: 1.000, supp: 0.405, lift: 1.494, conv: 4364.386)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.8
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)
+Rule: for min support = 0.2 / min confidence = 0.4
+{ Husband} -> { <=50K
+} (conf: 0.551, supp: 0.223, lift: 0.726, conv: 0.537)
+Rule: for min support = 0.2 / min confidence = 0.4
+{ Not-in-family} -> { <=50K
+} (conf: 0.897, supp: 0.229, lift: 1.181, conv: 2.337)

@@ -1,0 +1,3171 @@
+
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Doctorate', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Doctorate', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Prof-school')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Prof-school')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Prof-school', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Prof-school', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Prof-school')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Prof-school', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 7th-8th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 7th-8th', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 7th-8th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 7th-8th', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 7th-8th', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 10th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 10th', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 10th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 10th', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Federal-gov', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Federal-gov', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Federal-gov', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Federal-gov', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Other-relative', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Asian-Pac-Islander', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Asian-Pac-Islander', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Female', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-acdm', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Self-emp-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Own-child', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 11th', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Not-in-family', ' State-gov')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' State-gov')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' State-gov')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' State-gov', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' State-gov')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Female', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Some-college', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Some-college', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Some-college', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Private', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Private', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Private', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Private', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Local-gov', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Masters', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Masters', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Masters', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Masters', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Local-gov', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Local-gov', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Local-gov', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Male', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Male', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Female', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Bachelors', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Black', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Black', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Black', ' HS-grad', ' Unmarried')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Black', ' Private', ' Unmarried')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Unmarried')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Private', ' Some-college', ' Unmarried', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Unmarried')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Private', ' Unmarried')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Bachelors')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Male', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Female', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' ?', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' ?', ' Own-child', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Female', ' Own-child', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Own-child', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' ?', ' HS-grad', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Male', ' Own-child')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Doctorate',)
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Prof-school')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Prof-school')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Prof-school', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 7th-8th', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 7th-8th', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 10th', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Federal-gov', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Federal-gov', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Federal-gov', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Federal-gov', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Asian-Pac-Islander', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-acdm', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-acdm', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-acdm', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Self-emp-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 11th', ' Own-child')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 11th', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 11th', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' State-gov')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' State-gov')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' State-gov', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' State-gov')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Private', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Private', ' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Masters', ' Not-in-family')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Masters')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Masters', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Masters', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Local-gov')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Local-gov', ' Not-in-family')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Bachelors', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Black', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Black', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Black', ' Private', ' Unmarried')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Private', ' Unmarried')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Female', ' Not-in-family')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' ?', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Male', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' ?', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Female', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Own-child', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Female', ' Own-child')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' ?', ' Own-child')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Male', ' Own-child')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Federal-gov', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-acdm', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-acdm', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Self-emp-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 11th', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 11th', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' State-gov')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' State-gov')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-voc', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Private', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Private', ' White', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Masters', ' Not-in-family')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Masters')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Masters', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Not-in-family', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Not-in-family')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Female')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Bachelors', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Bachelors', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' HS-grad', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Black', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Black', ' Private', ' Unmarried')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Private', ' Some-college', ' Unmarried')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Private', ' Unmarried')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' ?', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' Own-child', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' HS-grad', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' ?', ' Own-child')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' Male', ' Own-child')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 7th-8th',)
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-acdm', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-acdm', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Self-emp-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 11th', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' State-gov')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-voc', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Private', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Private', ' White', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Masters')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Masters', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Bachelors')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' HS-grad')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Black', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Black', ' Unmarried')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' ?', ' Not-in-family')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' ?', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Own-child', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Not-in-family')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Self-emp-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 11th', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' State-gov')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Assoc-voc', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Private', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Private', ' White', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Masters')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Black', ' Husband')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Black', ' Unmarried')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Not-in-family')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Husband')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' HS-grad')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Own-child')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Own-child', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Own-child', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Not-in-family')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Not-in-family')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 10th',)
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Assoc-acdm',)
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 11th', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Assoc-voc', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Private', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Private', ' White', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Masters')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Masters', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' Husband')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' HS-grad')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' Own-child')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Own-child', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Not-in-family')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Assoc-acdm',)
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Self-emp-inc', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' State-gov',)
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Assoc-voc', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Private', ' Wife')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Masters')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Local-gov')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' Husband')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' Husband', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' HS-grad')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' Own-child')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' ?', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Female', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 850 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 950 / minimal probability = 0.8
+(' 11th',)
+Rule for occurrences: 950 / minimal probability = 0.8
+(' State-gov',)
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Private', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' White', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Male', ' Masters')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Local-gov', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Self-emp-not-inc', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' 0', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' 0', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' 0', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' ?', ' Husband')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' ?', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Own-child', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Own-child', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' Own-child', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Male', ' Own-child', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Own-child', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Not-in-family', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Bachelors', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Not-in-family', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Male', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Not-in-family')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Not-in-family', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' Not-in-family', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Male', ' Not-in-family', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Not-in-family', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' HS-grad', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' HS-grad', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Female', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.8
+(' Private',)
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Doctorate', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Prof-school')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Prof-school')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Prof-school', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 7th-8th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 7th-8th', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 7th-8th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 10th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 10th', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 10th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Federal-gov', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Federal-gov', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Asian-Pac-Islander', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Asian-Pac-Islander', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-acdm', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-acdm', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-acdm', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 11th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 11th', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 11th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' State-gov')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' State-gov', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Some-college', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Some-college', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Private', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Private', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Private', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Masters', ' Not-in-family', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Female', ' Masters', ' Not-in-family')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Masters', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Local-gov')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Male', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Black', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Black', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' ?', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' ?', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 250 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Prof-school')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Federal-gov', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Federal-gov', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Asian-Pac-Islander', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-acdm', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' State-gov')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' State-gov', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Private', ' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Masters', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Local-gov')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' HS-grad', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Black', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Black', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' ?', ' HS-grad', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' ?', ' ?', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' ?', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 350 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' State-gov')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Assoc-voc', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Private', ' White', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Local-gov')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Bachelors', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Black', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' ?', ' ?', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' ?', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 450 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Assoc-voc', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Assoc-voc', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Private', ' White', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Masters')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Local-gov')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Black', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' ?', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' ?', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 550 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Assoc-voc', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Private', ' White', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Masters')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Local-gov')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' HS-grad', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Black', ' Husband')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' ?', ' Husband')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' ?', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 650 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Male', ' Self-emp-inc')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Assoc-voc', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Private', ' White', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Masters')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Male', ' Masters')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Masters', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Local-gov')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' ?', ' Husband')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' ?', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' ?', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 750 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Private', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' White', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Male', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Male', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' 0', ' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' 0', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' 0', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' 0', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' ?', ' Husband')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Bachelors', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Male', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Male', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Male', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' Male')
+Rule for occurrences: 950 / minimal probability = 0.9
+(' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Private', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' ?', ' Husband')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 950 / minimal probability = 0.95
+(' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Doctorate', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Prof-school')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Prof-school', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 7th-8th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 7th-8th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 10th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 10th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Federal-gov', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Federal-gov', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Asian-Pac-Islander', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Asian-Pac-Islander', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Assoc-acdm', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Assoc-acdm', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 11th', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 11th', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' State-gov')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' State-gov', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' ?', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Bachelors', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Some-college', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Some-college', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' Private', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' Private', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Private', ' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Masters', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Local-gov')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Husband', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Husband', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Bachelors', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Black', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Black', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' ?', ' HS-grad', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' ?', ' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' ?', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 250 / minimal probability = 0.95
+(' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Prof-school')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Federal-gov', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Federal-gov', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Asian-Pac-Islander', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Assoc-acdm', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' State-gov')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' State-gov', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' HS-grad', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' HS-grad', ' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Private', ' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Masters', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Local-gov')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' 0', ' Bachelors', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' 0', ' Bachelors', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' 0', ' HS-grad', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Black', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Black', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' ?', ' HS-grad', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' ?', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 350 / minimal probability = 0.95
+(' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' State-gov')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Assoc-voc', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' HS-grad', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Private', ' White', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Masters', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Local-gov')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Black', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' ?', ' ?', ' Husband')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' ?', ' ?', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' ?', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 450 / minimal probability = 0.95
+(' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Assoc-voc', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Assoc-voc', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Private', ' White', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Masters')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Local-gov')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Black', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' ?', ' Husband')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' ?', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 550 / minimal probability = 0.95
+(' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Private', ' White', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Masters')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Local-gov')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Black', ' Husband')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' ?', ' Husband')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' ?', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 650 / minimal probability = 0.95
+(' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Self-emp-inc')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Private', ' White', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' White', ' Wife')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Masters')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Masters', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Local-gov')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Local-gov', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Self-emp-not-inc', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' 0', ' Husband', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' 0', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' 0', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' ?', ' Husband')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' ?', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Bachelors', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Private', ' Some-college', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Some-college', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' HS-grad', ' Husband', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' Private', ' White')
+Rule for occurrences: 750 / minimal probability = 0.95
+(' Husband', ' White')

@@ -1,0 +1,89 @@
+
+Rule: for min support = 0.2 / min confidence = 0.8
+{1: {(' Not-in-family',): 8305, (' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696, (' HS-grad',): 10501, (' Female',): 10771, (' Some-college',): 7291}, 2: {(' Female', ' Private'): 7752, (' Female', ' White'): 8642, (' HS-grad', ' Male'): 7111, (' HS-grad', ' Private'): 7780, (' HS-grad', ' White'): 8904, (' Husband', ' Male'): 13192, (' Husband', ' Private'): 8572, (' Husband', ' White'): 11940, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Not-in-family', ' White'): 7125, (' Private', ' White'): 19404}, 3: {(' HS-grad', ' Private', ' White'): 6612, (' Husband', ' Male', ' Private'): 8571, (' Husband', ' Male', ' White'): 11939, (' Husband', ' Private', ' White'): 7740, (' Male', ' Private', ' White'): 13123}, 4: {(' Husband', ' Male', ' Private', ' White'): 7739}}
+Rule: for min support = 0.2 / min confidence = 0.8
+[{ Female} -> { White}, { HS-grad} -> { White}, { Husband} -> { Male}, { Husband} -> { White}, { Male} -> { White}, { Not-in-family} -> { White}, { Private} -> { White}, { HS-grad,  Private} -> { White}, { Husband,  Private} -> { Male}, { Husband,  White} -> { Male}, { Husband,  Male} -> { White}, { Husband} -> { Male,  White}, { Husband,  Private} -> { White}, { Male,  Private} -> { White}, { Husband,  Private,  White} -> { Male}, { Husband,  Male,  Private} -> { White}, { Husband,  Private} -> { Male,  White}]
+Rule: for min support = 0.3 / min confidence = 0.8
+{1: {(' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696, (' HS-grad',): 10501, (' Female',): 10771}, 2: {(' Husband', ' Male'): 13192, (' Husband', ' White'): 11940, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Private', ' White'): 19404}, 3: {(' Husband', ' Male', ' White'): 11939, (' Male', ' Private', ' White'): 13123}}
+Rule: for min support = 0.3 / min confidence = 0.8
+[{ Husband} -> { Male}, { Husband} -> { White}, { Male} -> { White}, { Private} -> { White}, { Husband,  White} -> { Male}, { Husband,  Male} -> { White}, { Husband} -> { Male,  White}, { Male,  Private} -> { White}]
+Rule: for min support = 0.4 / min confidence = 0.8
+{1: {(' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696}, 2: {(' Husband', ' Male'): 13192, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Private', ' White'): 19404}, 3: {(' Male', ' Private', ' White'): 13123}}
+Rule: for min support = 0.4 / min confidence = 0.8
+[{ Husband} -> { Male}, { Male} -> { White}, { Private} -> { White}, { Male,  Private} -> { White}]
+Rule: for min support = 0.5 / min confidence = 0.8
+{1: {(' White',): 27816, (' Male',): 21790, (' Private',): 22696}, 2: {(' Male', ' White'): 19174, (' Private', ' White'): 19404}}
+Rule: for min support = 0.5 / min confidence = 0.8
+[{ Male} -> { White}, { Private} -> { White}]
+Rule: for min support = 0.6 / min confidence = 0.8
+{1: {(' White',): 27816, (' Male',): 21790, (' Private',): 22696}}
+Rule: for min support = 0.6 / min confidence = 0.8
+[]
+Rule: for min support = 0.7 / min confidence = 0.8
+{1: {(' White',): 27816}}
+Rule: for min support = 0.7 / min confidence = 0.8
+[]
+Rule: for min support = 0.8 / min confidence = 0.8
+{1: {(' White',): 27816}}
+Rule: for min support = 0.8 / min confidence = 0.8
+[]
+Rule: for min support = 0.2 / min confidence = 0.6
+{1: {(' Not-in-family',): 8305, (' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696, (' HS-grad',): 10501, (' Female',): 10771, (' Some-college',): 7291}, 2: {(' Female', ' Private'): 7752, (' Female', ' White'): 8642, (' HS-grad', ' Male'): 7111, (' HS-grad', ' Private'): 7780, (' HS-grad', ' White'): 8904, (' Husband', ' Male'): 13192, (' Husband', ' Private'): 8572, (' Husband', ' White'): 11940, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Not-in-family', ' White'): 7125, (' Private', ' White'): 19404}, 3: {(' HS-grad', ' Private', ' White'): 6612, (' Husband', ' Male', ' Private'): 8571, (' Husband', ' Male', ' White'): 11939, (' Husband', ' Private', ' White'): 7740, (' Male', ' Private', ' White'): 13123}, 4: {(' Husband', ' Male', ' Private', ' White'): 7739}}
+Rule: for min support = 0.2 / min confidence = 0.6
+[{ Female} -> { Private}, { Female} -> { White}, { HS-grad} -> { Male}, { HS-grad} -> { Private}, { HS-grad} -> { White}, { Male} -> { Husband}, { Husband} -> { Male}, { Husband} -> { Private}, { Husband} -> { White}, { Private} -> { Male}, { Male} -> { Private}, { White} -> { Male}, { Male} -> { White}, { Not-in-family} -> { White}, { White} -> { Private}, { Private} -> { White}, { HS-grad,  White} -> { Private}, { HS-grad,  Private} -> { White}, { HS-grad} -> { Private,  White}, { Husband,  Private} -> { Male}, { Husband,  Male} -> { Private}, { Husband} -> { Male,  Private}, { Male,  White} -> { Husband}, { Husband,  White} -> { Male}, { Husband,  Male} -> { White}, { Husband} -> { Male,  White}, { Husband,  White} -> { Private}, { Husband,  Private} -> { White}, { Private,  White} -> { Male}, { Male,  White} -> { Private}, { Male,  Private} -> { White}, { Male} -> { Private,  White}, { Husband,  Private,  White} -> { Male}, { Husband,  Male,  White} -> { Private}, { Husband,  Male,  Private} -> { White}, { Husband,  White} -> { Male,  Private}, { Husband,  Private} -> { Male,  White}]
+Rule: for min support = 0.3 / min confidence = 0.6
+{1: {(' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696, (' HS-grad',): 10501, (' Female',): 10771}, 2: {(' Husband', ' Male'): 13192, (' Husband', ' White'): 11940, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Private', ' White'): 19404}, 3: {(' Husband', ' Male', ' White'): 11939, (' Male', ' Private', ' White'): 13123}}
+Rule: for min support = 0.3 / min confidence = 0.6
+[{ Male} -> { Husband}, { Husband} -> { Male}, { Husband} -> { White}, { Private} -> { Male}, { Male} -> { Private}, { White} -> { Male}, { Male} -> { White}, { White} -> { Private}, { Private} -> { White}, { Male,  White} -> { Husband}, { Husband,  White} -> { Male}, { Husband,  Male} -> { White}, { Husband} -> { Male,  White}, { Private,  White} -> { Male}, { Male,  White} -> { Private}, { Male,  Private} -> { White}, { Male} -> { Private,  White}]
+Rule: for min support = 0.4 / min confidence = 0.6
+{1: {(' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696}, 2: {(' Husband', ' Male'): 13192, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Private', ' White'): 19404}, 3: {(' Male', ' Private', ' White'): 13123}}
+Rule: for min support = 0.4 / min confidence = 0.6
+[{ Male} -> { Husband}, { Husband} -> { Male}, { Private} -> { Male}, { Male} -> { Private}, { White} -> { Male}, { Male} -> { White}, { White} -> { Private}, { Private} -> { White}, { Private,  White} -> { Male}, { Male,  White} -> { Private}, { Male,  Private} -> { White}, { Male} -> { Private,  White}]
+Rule: for min support = 0.5 / min confidence = 0.6
+{1: {(' White',): 27816, (' Male',): 21790, (' Private',): 22696}, 2: {(' Male', ' White'): 19174, (' Private', ' White'): 19404}}
+Rule: for min support = 0.5 / min confidence = 0.6
+[{ White} -> { Male}, { Male} -> { White}, { White} -> { Private}, { Private} -> { White}]
+Rule: for min support = 0.6 / min confidence = 0.6
+{1: {(' White',): 27816, (' Male',): 21790, (' Private',): 22696}}
+Rule: for min support = 0.6 / min confidence = 0.6
+[]
+Rule: for min support = 0.7 / min confidence = 0.6
+{1: {(' White',): 27816}}
+Rule: for min support = 0.7 / min confidence = 0.6
+[]
+Rule: for min support = 0.8 / min confidence = 0.6
+{1: {(' White',): 27816}}
+Rule: for min support = 0.8 / min confidence = 0.6
+[]
+Rule: for min support = 0.2 / min confidence = 0.4
+{1: {(' Not-in-family',): 8305, (' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696, (' HS-grad',): 10501, (' Female',): 10771, (' Some-college',): 7291}, 2: {(' Female', ' Private'): 7752, (' Female', ' White'): 8642, (' HS-grad', ' Male'): 7111, (' HS-grad', ' Private'): 7780, (' HS-grad', ' White'): 8904, (' Husband', ' Male'): 13192, (' Husband', ' Private'): 8572, (' Husband', ' White'): 11940, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Not-in-family', ' White'): 7125, (' Private', ' White'): 19404}, 3: {(' HS-grad', ' Private', ' White'): 6612, (' Husband', ' Male', ' Private'): 8571, (' Husband', ' Male', ' White'): 11939, (' Husband', ' Private', ' White'): 7740, (' Male', ' Private', ' White'): 13123}, 4: {(' Husband', ' Male', ' Private', ' White'): 7739}}
+Rule: for min support = 0.2 / min confidence = 0.4
+[{ Female} -> { Private}, { Female} -> { White}, { HS-grad} -> { Male}, { HS-grad} -> { Private}, { HS-grad} -> { White}, { Male} -> { Husband}, { Husband} -> { Male}, { Husband} -> { Private}, { White} -> { Husband}, { Husband} -> { White}, { Private} -> { Male}, { Male} -> { Private}, { White} -> { Male}, { Male} -> { White}, { Not-in-family} -> { White}, { White} -> { Private}, { Private} -> { White}, { HS-grad,  White} -> { Private}, { HS-grad,  Private} -> { White}, { HS-grad} -> { Private,  White}, { Male,  Private} -> { Husband}, { Husband,  Private} -> { Male}, { Husband,  Male} -> { Private}, { Husband} -> { Male,  Private}, { Male,  White} -> { Husband}, { Husband,  White} -> { Male}, { Husband,  Male} -> { White}, { White} -> { Husband,  Male}, { Male} -> { Husband,  White}, { Husband} -> { Male,  White}, { Husband,  White} -> { Private}, { Husband,  Private} -> { White}, { Husband} -> { Private,  White}, { Private,  White} -> { Male}, { Male,  White} -> { Private}, { Male,  Private} -> { White}, { White} -> { Male,  Private}, { Private} -> { Male,  White}, { Male} -> { Private,  White}, { Male,  Private,  White} -> { Husband}, { Husband,  Private,  White} -> { Male}, { Husband,  Male,  White} -> { Private}, { Husband,  Male,  Private} -> { White}, { Male,  White} -> { Husband,  Private}, { Male,  Private} -> { Husband,  White}, { Husband,  White} -> { Male,  Private}, { Husband,  Private} -> { Male,  White}, { Husband,  Male} -> { Private,  White}, { Husband} -> { Male,  Private,  White}]
+Rule: for min support = 0.3 / min confidence = 0.4
+{1: {(' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696, (' HS-grad',): 10501, (' Female',): 10771}, 2: {(' Husband', ' Male'): 13192, (' Husband', ' White'): 11940, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Private', ' White'): 19404}, 3: {(' Husband', ' Male', ' White'): 11939, (' Male', ' Private', ' White'): 13123}}
+Rule: for min support = 0.3 / min confidence = 0.4
+[{ Male} -> { Husband}, { Husband} -> { Male}, { White} -> { Husband}, { Husband} -> { White}, { Private} -> { Male}, { Male} -> { Private}, { White} -> { Male}, { Male} -> { White}, { White} -> { Private}, { Private} -> { White}, { Male,  White} -> { Husband}, { Husband,  White} -> { Male}, { Husband,  Male} -> { White}, { White} -> { Husband,  Male}, { Male} -> { Husband,  White}, { Husband} -> { Male,  White}, { Private,  White} -> { Male}, { Male,  White} -> { Private}, { Male,  Private} -> { White}, { White} -> { Male,  Private}, { Private} -> { Male,  White}, { Male} -> { Private,  White}]
+Rule: for min support = 0.4 / min confidence = 0.4
+{1: {(' White',): 27816, (' Male',): 21790, (' Husband',): 13193, (' Private',): 22696}, 2: {(' Husband', ' Male'): 13192, (' Male', ' Private'): 14944, (' Male', ' White'): 19174, (' Private', ' White'): 19404}, 3: {(' Male', ' Private', ' White'): 13123}}
+Rule: for min support = 0.4 / min confidence = 0.4
+[{ Male} -> { Husband}, { Husband} -> { Male}, { Private} -> { Male}, { Male} -> { Private}, { White} -> { Male}, { Male} -> { White}, { White} -> { Private}, { Private} -> { White}, { Private,  White} -> { Male}, { Male,  White} -> { Private}, { Male,  Private} -> { White}, { White} -> { Male,  Private}, { Private} -> { Male,  White}, { Male} -> { Private,  White}]
+Rule: for min support = 0.5 / min confidence = 0.4
+{1: {(' White',): 27816, (' Male',): 21790, (' Private',): 22696}, 2: {(' Male', ' White'): 19174, (' Private', ' White'): 19404}}
+Rule: for min support = 0.5 / min confidence = 0.4
+[{ White} -> { Male}, { Male} -> { White}, { White} -> { Private}, { Private} -> { White}]
+Rule: for min support = 0.6 / min confidence = 0.4
+{1: {(' White',): 27816, (' Male',): 21790, (' Private',): 22696}}
+Rule: for min support = 0.6 / min confidence = 0.4
+[]
+Rule: for min support = 0.7 / min confidence = 0.4
+{1: {(' White',): 27816}}
+Rule: for min support = 0.7 / min confidence = 0.4
+[]
+Rule: for min support = 0.8 / min confidence = 0.4
+{1: {(' White',): 27816}}
+Rule: for min support = 0.8 / min confidence = 0.4
+[]
+Rule: for min support = 0.9 / min confidence = 0.4
+{}
+Rule: for min support = 0.9 / min confidence = 0.4
+[]
